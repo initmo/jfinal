@@ -20,7 +20,7 @@ import java.lang.reflect.Method;
 import com.jfinal.aop.Interceptor;
 
 /**
- *  Action 11 22
+ *  Action 核心类
  */
 public class Action {
 	
