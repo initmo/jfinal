@@ -20,7 +20,7 @@ import java.lang.reflect.Method;
 import com.jfinal.aop.Interceptor;
 
 /**
- * Hello Action 
+ *  Action 
  */
 public class Action {
 	
